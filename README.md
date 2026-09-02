@@ -7,25 +7,7 @@
 
 # Mohit Gangadhar Shivankar — Technical Portfolio
 
-### Engineering AI Systems, Scalable Software, and Data Architectures
-
-[![Next.js](https://img.shields.io/badge/Next.js-16.1.6-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-19.2.4-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.3-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Three.js](https://img.shields.io/badge/Three.js-0.170-000000?style=for-the-badge&logo=threedotjs&logoColor=white)](https://threejs.org/)
-[![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Portfolio-6366f1?style=for-the-badge)](https://www.mr-silicon.in)
-[![GitHub](https://img.shields.io/badge/GitHub-Arfazrll-181717?style=for-the-badge&logo=github)](https://github.com/mr-d-luffy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohit-shivankar-a87964340/)
-
 ---
-
-<!-- ![GitHub last commit](https://img.shields.io/github/last-commit/Arfazrll/PersonalBlog?style=flat-square&color=6366f1) -->
-<!-- ![GitHub repo size](https://img.shields.io/github/repo-size/Arfazrll/PersonalBlog?style=flat-square&color=a855f7) -->
-<!-- ![GitHub stars](https://img.shields.io/github/stars/Arfazrll/PersonalBlog?style=flat-square&color=f59e0b) -->
-![License](https://img.shields.io/badge/license-MIT-22c55e?style=flat-square)
 
 </div>
 
