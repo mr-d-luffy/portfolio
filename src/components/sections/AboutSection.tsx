@@ -32,56 +32,56 @@ import { WakaTimeShowcase } from "@/components/ui/wakatime-showcase";
 import { ShowcaseStack } from "@/components/ui/showcase-stack";
 
 const showcaseMembers = [
-    // 1. Cyber Physical Systems Laboratory
+    // 1. prgramming and Encryption Challenge
     ...portfolioData.experiences.filter(exp => exp.id === 'prof-7').map(exp => ({
         id: exp.id,
-        name: "Cyber Physical Systems Laboratory",
-        role: exp.position.replace(' (Contract-Based)', ''),
+        name: "prgramming and Encryption Challenge",
+        role: exp.position.replace(' (Compitetion)', ''),
         description: exp.description,
-        period: "August 2025 - Present",
-        image: "/journey/researchassistant2.webp",
+        period: "March 2025 - Present",
+        image: "/journey/image1.webp",
         social: exp.externalLink ? { website: Array.isArray(exp.externalLink) ? exp.externalLink[0] : exp.externalLink } : undefined
     })),
-    // 2. HUMIC Engineering
+    // IIT Prompt Engineering
     ...portfolioData.experiences.filter(exp => exp.id === 'prof-3').map(exp => ({
         id: exp.id,
-        name: "HUMIC Engineering",
+        name: "IIT Bombay Techfest",
         role: exp.position,
         description: exp.description,
-        period: "September 2025 - December 2025",
-        image: "/journey/aideveloperintern1.webp",
+        period: "December 2025",
+        image: "/journey/image2.webp",
         social: exp.externalLink ? { website: Array.isArray(exp.externalLink) ? exp.externalLink[0] : exp.externalLink } : undefined
     })),
-    // 3. Informatics Laboratory, Telkom University
+    // 3. Informatics Laboratory, IIT Bombay
     ...portfolioData.experiences.filter(exp => exp.id === 'prof-6').map(exp => ({
         id: exp.id,
         name: exp.company,
         role: exp.position.replace(' (Contract-Based)', ''),
         description: exp.description,
-        period: "September 2025 - January 2026",
-        image: "/journey/computernetworkpracticumassistant2.webp",
+        period: "July 2026 - December 2026",
+        image: "/journey/image3.webp",
         social: exp.externalLink ? { website: Array.isArray(exp.externalLink) ? exp.externalLink[0] : exp.externalLink } : undefined
     })),
-    // 4. Digistar Club by Telkom Indonesia
-    ...portfolioData.experiences.filter(exp => exp.id === 'lead-2').map(exp => ({
-        id: exp.id,
-        name: exp.company,
-        role: exp.position,
-        description: exp.description,
-        period: "October 2025 - December 2025",
-        image: "/journey/chiefcommittee1.webp",
-        social: exp.externalLink ? { website: Array.isArray(exp.externalLink) ? exp.externalLink[0] : exp.externalLink } : undefined
-    })),
-    // 5. Food and Agriculture Office of Bandung City
-    ...portfolioData.experiences.filter(exp => exp.id === 'prof-8').map(exp => ({
-        id: exp.id,
-        name: "Food and Agriculture Office of Bandung City",
-        role: exp.position,
-        description: exp.description,
-        period: "July - September 2025",
-        image: "/journey/dataentryassistant1.webp",
-        social: exp.externalLink ? { website: Array.isArray(exp.externalLink) ? exp.externalLink[0] : exp.externalLink } : undefined
-    })),
+    // // 4. Digistar Club by Telkom Indonesia
+    // ...portfolioData.experiences.filter(exp => exp.id === 'lead-2').map(exp => ({
+    //     id: exp.id,
+    //     name: exp.company,
+    //     role: exp.position,
+    //     description: exp.description,
+    //     period: "October 2025 - December 2025",
+    //     image: "/journey/chiefcommittee1.webp",
+    //     social: exp.externalLink ? { website: Array.isArray(exp.externalLink) ? exp.externalLink[0] : exp.externalLink } : undefined
+    // })),
+    // // 5. Food and Agriculture Office of Bandung City
+    // ...portfolioData.experiences.filter(exp => exp.id === 'prof-8').map(exp => ({
+    //     id: exp.id,
+    //     name: "Food and Agriculture Office of Bandung City",
+    //     role: exp.position,
+    //     description: exp.description,
+    //     period: "July - September 2025",
+    //     image: "/journey/dataentryassistant1.webp",
+    //     social: exp.externalLink ? { website: Array.isArray(exp.externalLink) ? exp.externalLink[0] : exp.externalLink } : undefined
+    // })),
     // 6. View more
     {
         id: 'view-more',
