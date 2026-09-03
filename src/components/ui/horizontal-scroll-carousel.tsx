@@ -24,16 +24,16 @@ const skillIcons: Record<string, any> = {
 
 // Popsy SVG illustrations yang dipastikan berfungsi
 const skillVisuals: Record<string, string> = {
-  'Problem Solving': 'https://illustrations.popsy.co/white/genius.svg',
-  'Systemic Thinking': 'https://illustrations.popsy.co/white/abstract-art-6.svg',
-  'Critical Thinking': 'https://illustrations.popsy.co/white/idea-launch.svg',
-  'Continuous Learning': 'https://illustrations.popsy.co/white/student-going-to-school.svg',
-  'Analytical Thinking': 'https://illustrations.popsy.co/white/success.svg',
-  'Adaptability': 'https://illustrations.popsy.co/white/creative-work.svg',
-  'Leadership': 'https://illustrations.popsy.co/white/team-idea.svg',
-  'Communication': 'https://illustrations.popsy.co/white/communication.svg',
-  'Teamwork': 'https://illustrations.popsy.co/white/shaking-hands.svg',
-  'Research Skills': 'https://illustrations.popsy.co/white/presentation.svg',
+  'Problem Solving': 'https://www.innovationtraining.org/wp-content/uploads/2022/05/Creative-Problem-Solving-Process.jpeg',
+  'Systemic Thinking': 'https://miro.medium.com/v2/resize:fit:1000/1*j304IeQlatH2Gvm0q1PSGg.png',
+  'Critical Thinking': 'https://i.imgur.com/bdtLOZ5.png',
+  'Continuous Learning': 'https://blogimage.vantagecircle.com/content/images/2019/09/Continuous-Learning.png',
+  'Analytical Thinking': 'https://miro.medium.com/1*-zkfzR_sTT56F7pMspWfcw.jpeg',
+  'Adaptability': 'https://www.innovationtraining.org/wp-content/uploads/2025/03/Adaptablility-Skills-Training-Workshop.jpg',
+  'Leadership': 'https://s44783.pcdn.co/in/wp-content/uploads/sites/3/2022/06/what-is-leadership.jpg.webp',
+  'Communication': 'https://centrepointschools.com/blogs/wp-content/uploads/2024/08/communication-skills.png',
+  'Teamwork': 'https://cdn.aib.edu.au/public-website/uploads/p/2019/03/form-submission-7464-teamworkisimportantintheworkplace-desktop-768x432-1606698141-85.webp',
+  'Research Skills': 'https://ryteup.com/img/research-1.jpg',
 };
 
 const allCards = portfolioData.softSkills.slice(0, 10).map((skill, index) => ({
