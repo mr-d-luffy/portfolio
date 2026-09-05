@@ -111,6 +111,11 @@ const GALLERY_IMAGES = [
     "/gallery/photo16.webp",
     "/gallery/photo17.webp",
     "/gallery/photo18.webp",
+    "/gallery/photo19.webp",
+    "/gallery/photo20.webp",
+    "/gallery/photo21.webp",
+    "/gallery/photo22.webp",
+    "/gallery/photo23.webp",
 ];
 
 const AboutLeadInImageStack = () => {
