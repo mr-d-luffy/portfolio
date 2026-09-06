@@ -16,7 +16,7 @@ interface NodeData {
 }
 
 interface InnovativeExperienceHeroProps {
-    type: 'education' | '' | 'experience';
+    type?: "" | "education" | "experience" | "journey";
     title: string;
     highlight: string;
     description: string;
@@ -53,7 +53,8 @@ const OUTER_PATH = "M 100,300 a 400,180 -15 1,0 800,0 a 400,180 -15 1,0 -800,0";
 const INNER_PATH = "M 250,300 a 250,110 -15 1,0 500,0 a 250,110 -15 1,0 -500,0";
 
 export function InnovativeExperienceHero({ type, title, highlight, description }: InnovativeExperienceHeroProps) {
-    const rawNodes = NODES_DATA[type] || NODES_DATA.experience;
+    const key = type ?? 'experience';
+    const rawNodes = NODES_DATA[key] || NODES_DATA.experience;
     const [hoveredNode, setHoveredNode] = useState<string | null>(null);
 
     return (
@@ -100,7 +101,7 @@ export function InnovativeExperienceHero({ type, title, highlight, description }
                         </svg>
 
                         {/* Nodes - Positioned using offset-path to ensure they sit directly on the dashed lines */}
-                        {rawNodes.map((node) => (
+                        {rawNodes.map((node: NodeData) => (
                             <OrbitalNode
                                 key={node.label}
                                 node={node}
