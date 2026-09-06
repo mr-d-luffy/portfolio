@@ -144,7 +144,7 @@ const GalleryItem = ({ logoSrc }: { logoSrc: string }) => {
   // Only invert logos that are purely black text on transparent backgrounds in dark mode.
   const needsInvertInDarkMode =
     logoSrc.includes("McKinsey") ||
-    logoSrc.includes("TelkomUniversity") ||
+    logoSrc.includes("RTMNUniversity") ||
     logoSrc.includes("softagelogo") ||
     logoSrc.includes("dinas-pangan");
 

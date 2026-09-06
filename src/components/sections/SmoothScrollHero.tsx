@@ -145,7 +145,7 @@ const ParallaxImages = ({ scrollY }: { scrollY: MotionValue<number> }) => {
             <div className="col-span-3 col-start-2">
                 <ParallaxImg
                     scrollY={scrollY}
-                    src="/experience/FotoSC1.webp"
+                    src="/experience/photo9.webp"
                     alt="Space launch"
                     start={800}
                     end={-1500}
@@ -157,7 +157,7 @@ const ParallaxImages = ({ scrollY }: { scrollY: MotionValue<number> }) => {
             <div className="col-span-3 col-start-10 mb-32">
                 <ParallaxImg
                     scrollY={scrollY}
-                    src="/experience/FotoSC2.webp"
+                    src="/experience/photo18.webp"
                     alt="Space launch"
                     start={1000}
                     end={-1500}
@@ -169,7 +169,7 @@ const ParallaxImages = ({ scrollY }: { scrollY: MotionValue<number> }) => {
             <div className="col-span-4 col-start-5 mb-10">
                 <ParallaxImg
                     scrollY={scrollY}
-                    src="/experience/FotoSC3.webp"
+                    src="/experience/photo19.webp"
                     alt="Satellite view"
                     start={900}
                     end={-1800}
@@ -181,7 +181,7 @@ const ParallaxImages = ({ scrollY }: { scrollY: MotionValue<number> }) => {
             <div className="col-span-3 col-start-1 mb-64">
                 <ParallaxImg
                     scrollY={scrollY}
-                    src="/experience/FotoSC4.webp"
+                    src="/experience/photo20.webp"
                     alt="Space texture"
                     start={1200}
                     end={-2000}
@@ -193,7 +193,7 @@ const ParallaxImages = ({ scrollY }: { scrollY: MotionValue<number> }) => {
             <div className="col-span-4 col-start-8 mb-40">
                 <ParallaxImg
                     scrollY={scrollY}
-                    src="/experience/FotoSC5.webp"
+                    src="/experience/photo21.webp"
                     alt="Orbiting satellite"
                     start={1100}
                     end={-2000}

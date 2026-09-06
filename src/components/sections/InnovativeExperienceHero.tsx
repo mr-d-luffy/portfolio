@@ -16,7 +16,7 @@ interface NodeData {
 }
 
 interface InnovativeExperienceHeroProps {
-    type: 'education' | 'journey' | 'experience';
+    type: 'education' | '' | 'experience';
     title: string;
     highlight: string;
     description: string;
@@ -32,20 +32,20 @@ const NODES_DATA: Record<string, NodeData[]> = {
         // { label: 'GDSC ML Path', description: 'Mastering regression, classification, and core ML.', orbitIndex: 1, position: 0.05, imageUrl: "https://images.unsplash.com/photo-1527689368864-3a821dbccc34?q=80&w=400&auto=format&fit=crop&fm=webp" },
     ],
     journey: [
-        { label: 'Project Officer', description: 'Telkom Digistar - Managing digital talent programs.', orbitIndex: 0, position: 0.15, imageUrl: "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=400&auto=format&fit=crop&fm=webp" },
-        { label: 'Academic Affairs', description: 'HMIT Telkom - Planning academic & student support.', orbitIndex: 1, position: 0.35, imageUrl: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=400&auto=format&fit=crop&fm=webp" },
-        { label: 'Public Relations', description: 'Youth Ranger Indonesia - Brand narrative & engagement.', orbitIndex: 0, position: 0.55, imageUrl: "https://images.unsplash.com/photo-1557804506-669a67965ba0?q=80&w=400&auto=format&fit=crop&fm=webp" },
-        { label: 'Fundraising Lead', description: 'GI BEI Telkom - Strategic donor & sponsorship outreach.', orbitIndex: 1, position: 0.75, imageUrl: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?q=80&w=400&auto=format&fit=crop&fm=webp" },
-        { label: 'Network Assistant', description: 'IFLAB Assistant - Guiding Socket Programming projects.', orbitIndex: 0, position: 0.9, imageUrl: "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?q=80&w=400&auto=format&fit=crop&fm=webp" },
-        { label: 'HR Management', description: 'CPS Laboratory - Fostering lab development & culture.', orbitIndex: 1, position: 0.02, imageUrl: "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?q=80&w=400&auto=format&fit=crop&fm=webp" },
+        { label: 'Collage Ambassador', description: 'IIT Bombay - Managing digital talent programs.', orbitIndex: 0, position: 0.15, imageUrl: "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=400&auto=format&fit=crop&fm=webp" },
+        { label: 'Prompt Engineering', description: 'IIT Bombay - Planning academic & student support.', orbitIndex: 1, position: 0.35, imageUrl: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=400&auto=format&fit=crop&fm=webp" },
+        { label: 'Coding & Cryptography (Compitetion)', description: 'JL Priyadarshani Collage Of Engineering - Brand narrative & engagement.', orbitIndex: 0, position: 0.55, imageUrl: "https://images.unsplash.com/photo-1557804506-669a67965ba0?q=80&w=400&auto=format&fit=crop&fm=webp" },
+        // { label: 'Fundraising Lead', description: 'GI BEI Telkom - Strategic donor & sponsorship outreach.', orbitIndex: 1, position: 0.75, imageUrl: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?q=80&w=400&auto=format&fit=crop&fm=webp" },
+        // { label: 'Network Assistant', description: 'IFLAB Assistant - Guiding Socket Programming projects.', orbitIndex: 0, position: 0.9, imageUrl: "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?q=80&w=400&auto=format&fit=crop&fm=webp" },
+        // { label: 'HR Management', description: 'CPS Laboratory - Fostering lab development & culture.', orbitIndex: 1, position: 0.02, imageUrl: "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?q=80&w=400&auto=format&fit=crop&fm=webp" },
     ],
     experience: [
-        { label: 'CV Researcher', description: 'CPS Lab - End-to-end intelligent model development.', orbitIndex: 0, position: 0.2, imageUrl: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?q=80&w=400&auto=format&fit=crop&fm=webp" },
-        { label: 'System Analyst', description: 'ASE Lab - Translating requirements to SRS/SDD/UML.', orbitIndex: 1, position: 0.45, imageUrl: "https://images.unsplash.com/photo-1454165833911-5421db635848?q=80&w=400&auto=format&fit=crop&fm=webp" },
-        { label: 'Swarm AI Lead', description: 'Multi-agent blog generation engine (Llama 3.3).', orbitIndex: 0, position: 0.6, imageUrl: "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400&auto=format&fit=crop&fm=webp" },
-        { label: 'Automation Eng.', description: 'Browser Agent CLI for AI-driven browser control.', orbitIndex: 1, position: 0.8, imageUrl: "https://images.unsplash.com/photo-1518433278988-c7bc488ce92d?q=80&w=400&auto=format&fit=crop&fm=webp" },
-        { label: 'IoT Engineering', description: 'Terraflow - Direct-to-Cloud IoT for agriculture.', orbitIndex: 0, position: 0.95, imageUrl: "https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?q=80&w=400&auto=format&fit=crop&fm=webp" },
-        { label: 'RAG Systems', description: 'DocsInsight Engine - Enterprise private RAG system.', orbitIndex: 1, position: 0.1, imageUrl: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=400&auto=format&fit=crop&fm=webp" },
+        { label: 'Collage Ambassador', description: 'End-to-end research & development.', orbitIndex: 0, position: 0.2, imageUrl: "https://images.unsplash.com/photo-1716396635935-b7ba3d91a1cb?q=80&w=2671&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
+        { label: 'Python Developer', description: 'Created usefull Funtions & Tools', orbitIndex: 1, position: 0.45, imageUrl: "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?q=80&w=3432&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
+        // { label: 'Swarm AI Lead', description: 'Multi-agent blog generation engine (Llama 3.3).', orbitIndex: 0, position: 0.6, imageUrl: "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400&auto=format&fit=crop&fm=webp" },
+        // { label: 'Automation Eng.', description: 'Browser Agent CLI for AI-driven browser control.', orbitIndex: 1, position: 0.8, imageUrl: "https://images.unsplash.com/photo-1518433278988-c7bc488ce92d?q=80&w=400&auto=format&fit=crop&fm=webp" },
+        // { label: 'IoT Engineering', description: 'Terraflow - Direct-to-Cloud IoT for agriculture.', orbitIndex: 0, position: 0.95, imageUrl: "https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?q=80&w=400&auto=format&fit=crop&fm=webp" },
+        // { label: 'RAG Systems', description: 'DocsInsight Engine - Enterprise private RAG system.', orbitIndex: 1, position: 0.1, imageUrl: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=400&auto=format&fit=crop&fm=webp" },
     ]
 };
 

@@ -877,7 +877,7 @@ function ExperienceTimeline({ isLowPowerMode }: { isLowPowerMode: boolean }) {
                 {group.experiences.map((exp) => {
                     const logoSrc = exp.logo || "";
                     const needsInvertInDarkMode = logoSrc.includes("McKinsey") || 
-                                                logoSrc.includes("TelkomUniversity") || 
+                                                logoSrc.includes("RTMNUniversity") || 
                                                 logoSrc.includes("softagelogo") || 
                                                 logoSrc.includes("dinas-pangan") ||
                                                 logoSrc.includes("yotlogo") ||
