@@ -9,7 +9,7 @@ export const portfolioData: PortfolioData = {
     bio: "An Information Technology student at RTM Nagpur University with a distinctive profile that fuses deep technical expertise in Artificial Intelligence with proven strategic leadership. Through hands-on experience as an AI Researcher at the Cyber Physical System Laboratory, I develop complex technical solutions from architecting IoT systems and designing software blueprints to engineering advanced Machine Learning models. Currently exploring AI Agents and Blockchain/Web3 technologies. Driven to leverage this integrated skill set to build initiatives that bridge technical innovation with effective execution.",
     avatar: "/about/proImage.jpg",
     location: "Nagpur Maharathra, India",
-    email: "SiliconBrains@mr-silicon.in",
+    email: "Contact@mr-silicon.in",
     phone: "+91 8788358100",
     resumeUrl: "/resume",
     website: "https://www.mr-silicon.in/",
