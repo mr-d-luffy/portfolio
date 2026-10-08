@@ -1,21 +1,246 @@
-MIT License
+# SILICONBRAINS SOFTWARE LICENSE AGREEMENT
 
-Copyright (c) 2026 S. A. Mohit Shivankar
+**Version 1.0 — Effective Date: September 11, 2026**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This Software License Agreement (“Agreement”) is entered into between **SiliconBrains** Mohit Shivankar and the individual or organization obtaining, installing, accessing, or using the Software Mohit Shivankar.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+By installing, accessing, copying, or using the Software, the Licensee agrees to be bound by the terms of this Agreement.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+---
+
+## 1. Definitions
+
+**“Software”** means the software application, source code, object code, libraries, documentation, updates, patches, and related materials provided by SiliconBrains.
+
+**“Licensor”** means SiliconBrains and its authorized representatives.
+
+**“Licensee”** means the individual, company, organization, or other legal entity licensed to use the Software.
+
+**“Authorized User”** means a person permitted by the Licensee to use the Software in accordance with this Agreement.
+
+---
+
+## 2. Grant of License
+
+Subject to the Licensee's compliance with this Agreement, SiliconBrains grants the Licensee a **limited, non-exclusive, non-transferable, non-sublicensable license** to install and use the Software solely for the purposes and within the limits specified by the applicable purchase, subscription, or license terms.
+
+This license does not transfer ownership of the Software to the Licensee.
+
+---
+
+## 3. Ownership
+
+The Software and all associated intellectual property rights, including but not limited to:
+
+- Source code
+- Object code
+- Algorithms
+- Software architecture
+- Designs
+- User interfaces
+- Logos and trademarks
+- Documentation
+- Databases and proprietary technologies
+
+remain the exclusive property of **SiliconBrains** or its applicable licensors.
+
+No ownership rights are granted to the Licensee except for the limited rights expressly stated in this Agreement.
+
+---
+
+## 4. Permitted Use
+
+The Licensee may:
+
+1. Install the Software on authorized devices.
+2. Use the Software for its intended purpose.
+3. Make reasonable backup copies where permitted by applicable law.
+4. Allow Authorized Users to access the Software according to the purchased license or subscription.
+
+---
+
+## 5. Restrictions
+
+Unless expressly authorized in writing by SiliconBrains, the Licensee shall not:
+
+1. Copy, reproduce, or distribute the Software beyond permitted backup copies.
+2. Sell, rent, lease, sublicense, or commercially redistribute the Software.
+3. Reverse engineer, decompile, disassemble, or attempt to derive the source code.
+4. Modify, adapt, or create derivative works of the Software.
+5. Remove copyright, trademark, license, or proprietary notices.
+6. Circumvent licensing, activation, authentication, or security mechanisms.
+7. Use the Software to develop a competing product where such restriction is legally enforceable.
+8. Share license keys, activation credentials, or authentication tokens with unauthorized persons.
+9. Use the Software for unlawful purposes.
+
+---
+
+## 6. License Keys and Activation
+
+Where the Software requires a license key, activation code, account, or other authentication mechanism, such credentials are provided solely for authorized use.
+
+The Licensee is responsible for maintaining the confidentiality of its license credentials.
+
+SiliconBrains may implement reasonable technical measures to verify license validity and prevent unauthorized use.
+
+---
+
+## 7. Updates and Support
+
+SiliconBrains may provide updates, patches, upgrades, security fixes, or technical support at its discretion or as specified by the applicable service plan.
+
+Certain updates may be required to maintain compatibility, security, or functionality.
+
+Unless otherwise stated, this Agreement also applies to updates and upgrades provided by SiliconBrains.
+
+---
+
+## 8. Third-Party Components
+
+The Software may contain third-party libraries, frameworks, open-source components, or other third-party technology.
+
+Such components may be subject to separate license terms.
+
+Where applicable, the relevant third-party license terms shall govern the use of those components.
+
+---
+
+## 9. Privacy and Data
+
+The Software may process information necessary to provide its functionality, maintain security, authenticate licenses, or improve the service.
+
+SiliconBrains shall handle personal information in accordance with its applicable privacy policy and applicable law.
+
+The Licensee is responsible for ensuring that its use of the Software complies with applicable privacy and data-protection requirements.
+
+---
+
+## 10. Confidentiality
+
+The Licensee shall not disclose SiliconBrains' confidential or proprietary information obtained through the Software or related documentation, except where disclosure is required by law.
+
+Confidential information may include source code, security mechanisms, technical documentation, unpublished features, credentials, and proprietary business information.
+
+---
+
+## 11. Term and Termination
+
+This Agreement begins when the Licensee first installs, accesses, or uses the Software and continues until terminated.
+
+SiliconBrains may terminate the license if the Licensee materially breaches this Agreement and fails to remedy the breach where a remedy period is legally required.
+
+Upon termination, the Licensee must:
+
+- Stop using the Software.
+- Uninstall the Software where applicable.
+- Delete unauthorized copies.
+- Cease using SiliconBrains license credentials.
+
+Termination does not affect rights or obligations that by their nature should survive termination.
+
+---
+
+## 12. Disclaimer of Warranties
+
+To the maximum extent permitted by applicable law, the Software is provided **“AS IS”** and **“AS AVAILABLE.”**
+
+SiliconBrains does not warrant that the Software will:
+
+- Be completely error-free;
+- Operate without interruption;
+- Meet every individual requirement of the Licensee; or
+- Be compatible with every hardware or software environment.
+
+Nothing in this Agreement excludes warranties that cannot legally be excluded.
+
+---
+
+## 13. Limitation of Liability
+
+To the maximum extent permitted by applicable law, SiliconBrains shall not be liable for indirect, incidental, special, consequential, or punitive damages arising from the use of or inability to use the Software.
+
+Where legally permitted, SiliconBrains' aggregate liability arising from this Agreement shall be limited to the amount actually paid by the Licensee for the Software during the applicable twelve-month period preceding the event giving rise to the claim.
+
+This limitation does not apply where prohibited by applicable law.
+
+---
+
+## 14. Indemnification
+
+To the extent permitted by applicable law, the Licensee agrees to indemnify and hold harmless SiliconBrains and its officers, employees, and representatives from claims arising from:
+
+1. Unauthorized use of the Software;
+2. Violation of this Agreement;
+3. Violation of applicable law; or
+4. Misuse of the Software by the Licensee or its Authorized Users.
+
+---
+
+## 15. Intellectual Property Protection
+
+The Licensee acknowledges that unauthorized copying, distribution, reverse engineering, or disclosure of the Software may cause substantial harm to SiliconBrains.
+
+All intellectual property rights not expressly granted under this Agreement are reserved by SiliconBrains.
+
+---
+
+## 16. Compliance With Law
+
+The Licensee shall use the Software in compliance with all applicable laws and regulations.
+
+Nothing in this Agreement grants the Licensee permission to use the Software for unlawful activities.
+
+---
+
+## 17. Assignment
+
+The Licensee may not assign, transfer, or delegate its rights or obligations under this Agreement without the prior written consent of SiliconBrains, except where such restriction is prohibited by applicable law.
+
+SiliconBrains may assign this Agreement as part of a merger, acquisition, restructuring, or transfer of substantially all relevant business assets.
+
+---
+
+## 18. Governing Law
+
+This Agreement shall be governed by the laws specified by SiliconBrains in the applicable commercial agreement or, if no jurisdiction is specified, by the laws applicable to the principal place of business of SiliconBrains, subject to applicable mandatory laws.
+
+---
+
+## 19. Entire Agreement
+
+This Agreement constitutes the complete agreement between SiliconBrains and the Licensee concerning the licensing of the Software and supersedes prior agreements concerning the same subject matter, except for separately executed commercial agreements.
+
+If any provision is found to be unenforceable, the remaining provisions shall remain in effect to the extent permitted by law.
+
+---
+
+## 20. Changes to This License
+
+SiliconBrains may publish updated versions of this license for future releases of the Software.
+
+The license applicable to a particular Software version will be identified with that version or otherwise made available to the Licensee.
+
+---
+
+## 21. Contact
+
+**SiliconBrains**
+
+Software & Technology Division
+
+**Company:** SiliconBrains  
+**License:** SiliconBrains Software License  
+**Version:** 1.0  
+**Effective Date:** September 11, 2026
+
+For licensing questions, contact the official SiliconBrains representative.
+
+---
+
+# COPYRIGHT NOTICE
+
+**© 2026 SiliconBrains. All rights reserved.**
+
+The Software, its documentation, and associated intellectual property are protected by applicable intellectual-property laws.
+
+Unauthorized use, reproduction, modification, or distribution may result in legal action to the extent permitted by applicable law.
